@@ -1,6 +1,6 @@
 # Share_Price
 ***
-A python scraper to fetch Share Market Price of any Company. TO keep the record of particular company it is integrated with SQL Database and an Email feature is added, which sends Information of every company stored in tha database to the specified mail.
+A python scraper to fetch Share Market Price of any Company using Beautifulsoup. TO keep the record of particular company it is integrated with SQL Database and an Email feature is added, which sends Information of every company stored in the database under specific username to the specified mail.Tkinter is used for developing Graphical User Interface.
 
 
 # Motivation
